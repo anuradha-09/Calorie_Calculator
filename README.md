@@ -52,13 +52,10 @@ TDEE = BMR * Activity Factor
 * JavaScript
 * Simple responsive layout
 
-### **Backend (optional – if you used Python)**
-
-* Python
-* Flask (or simple script execution)
-* BMR & TDEE calculation logic
-
-> If you built the project with only JavaScript, then the backend is not required — calculations happen on the client side.
+### **Backend **
+- C programming language
+- Core calorie computation implemented in C
+- Integrated with the frontend through a compiled module or API
 
 ---
 
@@ -81,4 +78,4 @@ TDEE = BMR * Activity Factor
 3. User receives:
 
    * Calories to maintain weight
-   * (Optional) Calories for weight loss/gain
+
